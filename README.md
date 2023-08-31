@@ -1,11 +1,3 @@
-# Looking for new working opportunities 💼
-
-Hi, my name is Caio and I have been programming for +10 years doing things like full-stack web development and DevOps but more recently, most of my time is being spent on Blockchain/Cryptography/Network stuff alongside Rust engineering extravaganza.
-
-For more information, take a look at my [LinkedIn profile](https://www.linkedin.com/in/caio-fer/), my [personal blog](https://c410-f3r.github.io/) or contact me through c410.f3r@gmail.com.
-
-# Professional certifications 📖
-
 <table>
   <tr>
     <td>
