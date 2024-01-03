@@ -20,13 +20,13 @@
         <img alt="Confluent Certified Developer for Apache Kafka" src="https://res.cloudinary.com/e4datascience/image/upload/f_auto/g_auto/q_auto/twittercard.png" style="height: 150px; width: 150px;" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://c410-f3r.github.io/certifications/6.pdf">
         <img alt="Google Cloud Certified Associate Cloud Engineer" src="https://miro.medium.com/max/400/1*8tnLr1GkoHtCFmD7PgcjAw.png" style="height: 150px; width: 150px;" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://c410-f3r.github.io/certifications/5.pdf">
         <img alt="Blockchain Solution Architect" src="https://bta-site-images.s3.us-east-2.amazonaws.com/v1-sa.png" style="height: 150px; width: 150px;" />
@@ -42,6 +42,8 @@
         <img alt="Blockchain Developer - Ethereum" src="https://bta-site-images.s3.us-east-2.amazonaws.com/v1-eth.png" style="height: 150px; width: 150px;" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://c410-f3r.github.io/certifications/2.pdf">
         <img alt="Certified Kubernetes Administrator" src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png" style="height: 150px; width: 150px;" />
