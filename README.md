@@ -1,5 +1,5 @@
 <div align="center">
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td>
       <a href="https://c410-f3r.github.io/certifications/10.pdf">
